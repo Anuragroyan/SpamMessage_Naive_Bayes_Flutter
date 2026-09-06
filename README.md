@@ -1,6 +1,4 @@
-# spammsg_nb_detector
-
-Naive Bayes spam or ham msg
+# 📩 Spam Detector is a Kotlin-based Android app that uses the Naive Bayes algorithm to analyze user-provided messages and classify them as spam or legitimate. It demonstrates machine learning, text classification, probability-based prediction, and real-time results without requiring a backend.
 
 ## Getting Started
 
